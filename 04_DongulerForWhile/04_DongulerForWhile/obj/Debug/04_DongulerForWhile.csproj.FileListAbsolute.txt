@@ -1,0 +1,7 @@
+C:\Users\GKCE\Desktop\CASE2\04_DongulerForWhile\04_DongulerForWhile\bin\Debug\04_DongulerForWhile.exe.config
+C:\Users\GKCE\Desktop\CASE2\04_DongulerForWhile\04_DongulerForWhile\bin\Debug\04_DongulerForWhile.exe
+C:\Users\GKCE\Desktop\CASE2\04_DongulerForWhile\04_DongulerForWhile\bin\Debug\04_DongulerForWhile.pdb
+C:\Users\GKCE\Desktop\CASE2\04_DongulerForWhile\04_DongulerForWhile\obj\Debug\04_DongulerForWhile.csproj.AssemblyReference.cache
+C:\Users\GKCE\Desktop\CASE2\04_DongulerForWhile\04_DongulerForWhile\obj\Debug\04_DongulerForWhile.csproj.CoreCompileInputs.cache
+C:\Users\GKCE\Desktop\CASE2\04_DongulerForWhile\04_DongulerForWhile\obj\Debug\04_DongulerForWhile.exe
+C:\Users\GKCE\Desktop\CASE2\04_DongulerForWhile\04_DongulerForWhile\obj\Debug\04_DongulerForWhile.pdb
