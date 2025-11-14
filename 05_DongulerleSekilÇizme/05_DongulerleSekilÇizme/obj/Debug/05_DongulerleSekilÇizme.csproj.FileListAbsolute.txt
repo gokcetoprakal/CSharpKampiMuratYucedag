@@ -1,0 +1,7 @@
+C:\Users\GKCE\Desktop\CASE2\05_DongulerleSekilÇizme\05_DongulerleSekilÇizme\bin\Debug\05_DongulerleSekilÇizme.exe.config
+C:\Users\GKCE\Desktop\CASE2\05_DongulerleSekilÇizme\05_DongulerleSekilÇizme\bin\Debug\05_DongulerleSekilÇizme.exe
+C:\Users\GKCE\Desktop\CASE2\05_DongulerleSekilÇizme\05_DongulerleSekilÇizme\bin\Debug\05_DongulerleSekilÇizme.pdb
+C:\Users\GKCE\Desktop\CASE2\05_DongulerleSekilÇizme\05_DongulerleSekilÇizme\obj\Debug\05_DongulerleSekilÇizme.csproj.AssemblyReference.cache
+C:\Users\GKCE\Desktop\CASE2\05_DongulerleSekilÇizme\05_DongulerleSekilÇizme\obj\Debug\05_DongulerleSekilÇizme.csproj.CoreCompileInputs.cache
+C:\Users\GKCE\Desktop\CASE2\05_DongulerleSekilÇizme\05_DongulerleSekilÇizme\obj\Debug\05_DongulerleSekilÇizme.exe
+C:\Users\GKCE\Desktop\CASE2\05_DongulerleSekilÇizme\05_DongulerleSekilÇizme\obj\Debug\05_DongulerleSekilÇizme.pdb
