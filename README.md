@@ -8,4 +8,5 @@ Bu derste öğrendiğim karar yapıları ile önceki eğitimde yaptığım "Örd
 ## 4. Ders: Döngüler, For ve While
 Bu derste öğrendiğim döngüler ile sayı tahmin oyunu yaptım. Maksimum 10 tane tahminle istenilen sayının bulunmasını sağladım.
 ## 5. Ders: Döngülerle Çalışmalar, Yıldızlarla Çizim
-Bu derste döngüler konusuna devam ederek seçilen şekli konsolda yıldızlarla çizen bir program yaptım.
+Bu derste döngüler konusuna devam ederek seçilen şekli konsolda yıldızlarla çizen bir program yaptım. Switch case yapısıyla hangi şeklin çizileceğine karar verdin ve for döngüsüyle istenen şekli girilen sayılara göre çizdim.
+## 6. Ders: Diziler
