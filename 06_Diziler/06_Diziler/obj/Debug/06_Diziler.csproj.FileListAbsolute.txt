@@ -1,0 +1,7 @@
+C:\Users\GKCE\Desktop\CASE2\06_Diziler\06_Diziler\bin\Debug\06_Diziler.exe.config
+C:\Users\GKCE\Desktop\CASE2\06_Diziler\06_Diziler\bin\Debug\06_Diziler.exe
+C:\Users\GKCE\Desktop\CASE2\06_Diziler\06_Diziler\bin\Debug\06_Diziler.pdb
+C:\Users\GKCE\Desktop\CASE2\06_Diziler\06_Diziler\obj\Debug\06_Diziler.csproj.AssemblyReference.cache
+C:\Users\GKCE\Desktop\CASE2\06_Diziler\06_Diziler\obj\Debug\06_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\GKCE\Desktop\CASE2\06_Diziler\06_Diziler\obj\Debug\06_Diziler.exe
+C:\Users\GKCE\Desktop\CASE2\06_Diziler\06_Diziler\obj\Debug\06_Diziler.pdb
