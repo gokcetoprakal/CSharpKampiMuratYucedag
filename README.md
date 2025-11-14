@@ -1,2 +1,3 @@
-# CSharpKampiMuratYucedag
-Bu depoda Murat Yücedağ'ın Youtube'daki C# Eğitim Kampının ilk 8 dersinde işlenen konuların projeleri yer almaktadır.
+# İlk 8 Dersin Projeleri
+## 1. Ders: Giriş ve Yazdırma İşlemleri
+Bu derste başlangıç olarak yazdırma işlemlerini öğrendik. Console.WriteLine(), Console.Write(), Console.Read() ve Console.ReadLine() komutlarını kullanmayı öğrendik
