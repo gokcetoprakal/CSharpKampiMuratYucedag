@@ -10,3 +10,4 @@ Bu derste öğrendiğim döngüler ile sayı tahmin oyunu yaptım. Maksimum 10 t
 ## 5. Ders: Döngülerle Çalışmalar, Yıldızlarla Çizim
 Bu derste döngüler konusuna devam ederek seçilen şekli konsolda yıldızlarla çizen bir program yaptım. Switch case yapısıyla hangi şeklin çizileceğine karar verdin ve for döngüsüyle istenen şekli girilen sayılara göre çizdim.
 ## 6. Ders: Diziler
+Bu derste dizilerle çalışmayı öğrendim. Bir sayı dizisine değer girip o dizinin ortalamasına en yakın olan sayıyı bulan bir program yazdım.
