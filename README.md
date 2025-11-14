@@ -4,4 +4,4 @@ Bu derste başlangıç olarak yazdırma işlemlerini öğrendik. Console.WriteLi
 ## 2. Ders: Veri Tipleri ve Dönüşüm
 Bu derste öğrendiğim veri tipleri ve dönüşüm konusuyla "Ördek mi Kaz mı?" adında minik bir oyun tasarladım. Bu oyunda kullanıcının girdiği 3 sayının ortalaması alınıp doubledan int e dönüştürülüyor ve sonra modu 0 ise konsola ördek, 1 ise kaz yazdırılıyor.
 ## 3. Ders: Karar Yapıları, Switch Case, IfElse
-Bu derste öğrendiğim karar yapıları ile önceki eğitimde yaptığım "Ördek mi Kaz mı? oyununu geliştirdim. 
+Bu derste öğrendiğim karar yapıları ile önceki eğitimde yaptığım "Ördek mi Kaz mı? oyununu geliştirdim. Switch-case yapısını kullanarak ortalamanın modunun 0 mı 1 mi olduğunu tespit ederek puan arttırma ya da azaltma işlemi yaptım. if else yapısı ile de puanın 0 mı yoksa 5 mi olduğuna bakarak oyunun sonucunu buldum.
