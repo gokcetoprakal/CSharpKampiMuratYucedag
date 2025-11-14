@@ -14,4 +14,5 @@ Bu derste dizilerle çalışmayı öğrendim. Bir sayı dizisine değer girip o 
 ## 7. Ders: Foreach Döngüsü
 Bu derste foreach döngüsüyle çalışma yapmayı öğrendim. Bir string dizisindeki kelimeleri index numarasına göre ikiye ayırdım.
 ## 8. Ders: Metodlar
+Bu derste gösterilen void, parametreli ve parametresiz metodlardan birer örnek yaptım. Değer döndüren ve döndürmeyen metodların farkını öğrendim.
 
