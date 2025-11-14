@@ -1,0 +1,7 @@
+C:\Users\GKCE\Desktop\CASE2\01_Yazdirmaİslemleri\01_Yazdirmaİslemleri\bin\Debug\01_Yazdirmaİslemleri.exe.config
+C:\Users\GKCE\Desktop\CASE2\01_Yazdirmaİslemleri\01_Yazdirmaİslemleri\bin\Debug\01_Yazdirmaİslemleri.exe
+C:\Users\GKCE\Desktop\CASE2\01_Yazdirmaİslemleri\01_Yazdirmaİslemleri\bin\Debug\01_Yazdirmaİslemleri.pdb
+C:\Users\GKCE\Desktop\CASE2\01_Yazdirmaİslemleri\01_Yazdirmaİslemleri\obj\Debug\01_Yazdirmaİslemleri.csproj.AssemblyReference.cache
+C:\Users\GKCE\Desktop\CASE2\01_Yazdirmaİslemleri\01_Yazdirmaİslemleri\obj\Debug\01_Yazdirmaİslemleri.csproj.CoreCompileInputs.cache
+C:\Users\GKCE\Desktop\CASE2\01_Yazdirmaİslemleri\01_Yazdirmaİslemleri\obj\Debug\01_Yazdirmaİslemleri.exe
+C:\Users\GKCE\Desktop\CASE2\01_Yazdirmaİslemleri\01_Yazdirmaİslemleri\obj\Debug\01_Yazdirmaİslemleri.pdb
